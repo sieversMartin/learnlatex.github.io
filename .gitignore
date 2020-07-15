@@ -1,0 +1,28 @@
+# GENERAL 
+# files types
+.~*
+*.*~
+*.bak
+*.gho
+*.jpg
+*.jpeg
+*.log
+*.ods
+*.ori
+*.png
+*.swp
+*.swo
+*.tmp
+*.vim
+*.xlsx
+
+# directories
+_workfiles
+
+# SPECIFIC
+# excludes
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache
+_site
+package.json
